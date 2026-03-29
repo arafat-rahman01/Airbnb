@@ -9,7 +9,7 @@ A full-stack **MERN** (MongoDB, Express, React, Node.js) project to manage prope
 - User-friendly listing display with **images and details**
 - Create, edit, delete listings (**CRUD operations**)
 - Responsive **Bootstrap 5** UI
-- **Price formatting** for Indian/Bangladeshi currency
+- **Price formatting** for Bangladeshi currency
 - Optional **image upload with URL support**
 - Fully functional **Edit/Delete buttons**
 - Ready for deployment on **Vercel / Netlify**
@@ -24,10 +24,3 @@ A full-stack **MERN** (MongoDB, Express, React, Node.js) project to manage prope
 - **Other Tools:** Method-Override, Nodemon
 
 ---
-
-## 📦 Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/wanderlust-listings.git
-cd wanderlust-listings
